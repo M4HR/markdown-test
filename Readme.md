@@ -65,10 +65,10 @@ print("Hello World!")
 
 <!-- GITHUB MARKDOWN -->
 
-* [x] Task 1
-* [ ] Task 2
-* [ ] Task 3
-* [ ] Task 4
+* [x] Tarea 1
+* [ ] Tarea 2
+* [ ] Tarea 3
+* [ ] Tarea 4
 
 @M4HR :smiley: :+1:
 
